@@ -1,1 +1,1 @@
-I am another file are you going to track me now...?
+I am another file are you going to track me now...? And add this.  Now amend the commit.
