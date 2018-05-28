@@ -1,3 +1,5 @@
 I added this line in master
 Then I added this line in master
 I am another file are you going to track me now...? And add this.  Now amend the commit.
+This is the line that I added in my patch.  Patches are funny.
+This is another line that I added in this patch
