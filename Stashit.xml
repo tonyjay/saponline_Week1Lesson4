@@ -1,8 +1,13 @@
 <tony>
+    <threeway>branch</threeway>
+    <threeway>branch again</threeway>
+    <threeway>another branch commit after commit to master after merge to three-way from master</threeway>
     <ff>changes</ff>
     <moreff>stuff</moreff>
     <this>whatever</this>
     <sick41branch>woot!</sick41branch>
     <causingtrouble>they say</causingtrouble>
     <featurechange>fast forward</featurechange>
+    <threeway>master</threeway>
+    <threeway>master again after merge master to three-way branch</threeway>
 </tony>
