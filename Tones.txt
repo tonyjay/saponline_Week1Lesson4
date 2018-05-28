@@ -4,3 +4,4 @@ I am tones, this is my new file.
 
 A change for fast forward merge
 Branch 3 changes
+Master three way
