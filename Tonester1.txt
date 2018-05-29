@@ -1,7 +1,3 @@
-Rebase: this is commit 1 on master
-Rebase: this is commit 2 on master
-
-
 Now this is going to have divergence between branch 4 and master
 Try again: added in master
 Try again: added another one in master

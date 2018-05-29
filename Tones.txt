@@ -1,27 +1,5 @@
-Trying again this is from the master.  Going to merge master to three-way for this test.
-
-This is the line I added in the three-way branch 
-
-Add in this for threeway
 Master changes for branch 3 - code divergence
 I am tones, this is my new file.
+
 A change for fast forward merge
 Branch 3 changes
-Master three way
-
-TJ ff hopefully using command line - created this in tj-ff
-
-And I am going to merge this one with the --no-ff
-
-Try to get an FF in sourcetree
-
-Going to check the messages this time
-
-Not going to FF even if it's possible
-
-And this is the line that I put in for the master
-
-Trying again, this it put into the three-way - going to merge master into three way and see where we're at
-
-Rebasing commit 1
-Rebasing commit 2
