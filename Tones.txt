@@ -1,3 +1,5 @@
+This is the line I added in the three-way branch 
+
 Add in this for threeway
 Master changes for branch 3 - code divergence
 I am tones, this is my new file.
