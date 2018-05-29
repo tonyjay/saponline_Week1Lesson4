@@ -1,6 +1,7 @@
 Rebase: this is commit 1 on master
 Rebase: this is commit 2 on master
-SourceTreet Rebase: this is commit 1 on master
+SourceTree Rebase: this is commit 1 on master
+SourceTree Rebase: this is commit 2 on master
 
 
 Now this is going to have divergence between branch 4 and master
