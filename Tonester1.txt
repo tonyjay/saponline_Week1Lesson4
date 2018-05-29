@@ -1,6 +1,6 @@
 Rebase: this is commit 1 on master
 Rebase: this is commit 2 on master
-SourceTree Rebase: this is commit 1 on master
+SourceTree Rebase: this is commit 1 on master - changed for conflict
 SourceTree Rebase: this is commit 2 on master
 
 
