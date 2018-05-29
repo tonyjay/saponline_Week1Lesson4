@@ -32,3 +32,8 @@ SourceTree Rebasing commit 1
 SourceTree Rebasing commit 2
 tj-ff-local change, diverge
 tfj changes - yeah I made more change
+Master changes for branch 3 - code divergence
+I am tones, this is my new file.
+
+A change for fast forward merge
+Branch 3 changes
