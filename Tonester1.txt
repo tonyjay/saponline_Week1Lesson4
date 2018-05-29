@@ -1,3 +1,7 @@
+Rebase: this is commit 1 on master
+Rebase: this is commit 2 on master
+SourceTree Rebase: this is commit 1 on master - changed for conflict MERGED
+SourceTree Rebase: this is commit 2 on master - changed for conflict 2 MERGED - Second merge
 Now this is going to have divergence between branch 4 and master
 Try again: added in master
 Try again: added another one in master
