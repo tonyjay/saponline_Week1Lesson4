@@ -6,3 +6,5 @@ Branch 3 changes
 Master three way
 
 TJ ff hopefully using command line - created this in tj-ff
+
+And I am going to merge this one with the --no-ff
