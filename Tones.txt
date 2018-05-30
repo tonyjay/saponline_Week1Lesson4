@@ -1,4 +1,4 @@
-Modifying online, therefore master will be out of date - so will perform a fetch and merge
+Modifying AGAIN online, therefore master will be out of date - so will perform a fetch and merge
 
 Tones
 Make a change, and try to then do a hard reset from sourcetree
